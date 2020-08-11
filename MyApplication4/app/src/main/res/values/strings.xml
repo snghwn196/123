@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">유통기한을 부탁해</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">검색</string>
+
+    <string name="menu_home">홈</string>
+    <string name="menu_image">이미지 스캔</string>
+    <string name="menu_barcode">바코드 스캔</string>
+    <string name="menu_alram">알람 등록</string>
+</resources>
